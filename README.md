@@ -14,7 +14,7 @@ Driven MERN Stack Developer passionate about applying technical skills and creat
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: GitHub, VS Code
 
 ---
 
